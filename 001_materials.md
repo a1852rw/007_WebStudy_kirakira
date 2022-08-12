@@ -88,5 +88,7 @@ Web上で出に入る学習資料をリストアップしました。学習順�
 - まとめサイト
   - これで完璧！エンジニア新人研修の資料まとめ！(git/AWS/Python/React/Go/Rust など)2021 年 7 月版
     - https://commte.net/7251
+  - 【2022年最新】オススメのプログラミング学習サービス集
+    - https://qiita.com/KNR109/items/af433f1013221c5ed529
 
 
