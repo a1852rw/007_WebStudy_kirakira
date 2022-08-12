@@ -27,6 +27,9 @@ Web上で出に入る学習資料をリストアップしました。学習順�
   - https://qiita.com/minakawa-daiki/items/5fc6efbb2244f6f1c19c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items
 - ピクシブ
   - https://devpixiv.hatenablog.com/entry/2014/04/28/140859
+- Amazon
+  - Cybersecurity Awareness training
+  - https://learnsecurity.amazon.com/
 
 ### 無料教材(補助教材)
 - 東大「Pythonプログラミング入門」
@@ -49,6 +52,24 @@ Web上で出に入る学習資料をリストアップしました。学習順�
   - http://kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf
 - データサイエンスセンター
   - https://atcold.github.io/pytorch-Deep-Learning/ja/
+- Linuxサーバー構築標準教科書
+  - https://linuc.org/textbooks/server/
+- AWS ハンズオン資料
+  - https://aws.amazon.com/jp/aws-jp-introduction/aws-jp-webinar-hands-on/
+
+### 無料デザイン素材
+- O-DAN
+　- https://o-dan.net/ja/
+- ICON BOX
+  - https://iconbox.fun/
+- pngtree
+  - https://ja.pngtree.com/
+- storyset
+  - https://storyset.com/
+
+## Web上で手に入る学習資料(学習順で並べ替え)
+<作成中>
+
 
 
 ## 参考資料
@@ -62,13 +83,9 @@ Web上で出に入る学習資料をリストアップしました。学習順�
   - プログラミング、データサイエンス・統計学関連はネット上にで超優良なテキスト
     - https://twitter.com/jujulife7/status/1455515805408399364?s=20&t=rZy6Kg-zLTYxrF39q6sBxQ
   - 初心者デザイナーが登録すべき素材サイト
-    - O-DAN
-      - https://o-dan.net/ja/
-    - ICON BOX
-      - https://iconbox.fun/
-    - pngtree
-      - https://ja.pngtree.com/
-    - storyset
-      - https://storyset.com/
+    - https://twitter.com/kuwanun/status/1411626870987186177?s=20&t=MBkQtRthsV87lutdRpxZzw
 
 - まとめサイト
+  - なし
+
+
