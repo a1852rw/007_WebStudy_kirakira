@@ -59,7 +59,7 @@ Web上で出に入る学習資料をリストアップしました。学習順�
 
 ### 無料デザイン素材
 - O-DAN
-　- https://o-dan.net/ja/
+  - https://o-dan.net/ja/
 - ICON BOX
   - https://iconbox.fun/
 - pngtree
