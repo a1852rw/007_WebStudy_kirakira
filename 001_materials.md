@@ -86,6 +86,7 @@ Web上で出に入る学習資料をリストアップしました。学習順�
     - https://twitter.com/kuwanun/status/1411626870987186177?s=20&t=MBkQtRthsV87lutdRpxZzw
 
 - まとめサイト
-  - なし
+  - これで完璧！エンジニア新人研修の資料まとめ！(git/AWS/Python/React/Go/Rust など)2021 年 7 月版
+    - https://commte.net/7251
 
 
