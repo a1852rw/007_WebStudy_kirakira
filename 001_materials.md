@@ -69,8 +69,34 @@ Web上で出に入る学習資料をリストアップしました。学習順�
 
 ## Web上で手に入る学習資料(学習順で並べ替え)
 <作成中>
+- リクルート
+  - https://blog.recruit.co.jp/rtc/2021/08/20/recruit-bootcamp-2021/
+- サイバー
+  - https://developers.cyberagent.co.jp/blog/archives/30024/
+- ミクシィ
+  - https://mixi-developers.mixi.co.jp/22-technical-training-5fc362a9dc41
+- Amazon
+  - Cybersecurity Awareness training
+  - https://learnsecurity.amazon.com/
+- クックパッド
+  - https://techlife.cookpad.com/entry/2018/05/09/080000
+- GMOペパボ
+  - https://tech.pepabo.com/2021/09/21/newbie-training-2021/
+- ピクシブ
+  - https://devpixiv.hatenablog.com/entry/2014/04/28/140859
 
-
+- Wantedly
+  - https://wantedly.com/companies/wantedly/post_articles/173824
+- ゆめみ
+  - https://qiita.com/watanave/items/1cefa5aae18f5141c426
+- SEGA
+  - https://techblog.sega.jp/entry/2021/06/15/100000
+- Fringe81
+  - https://qiita.com/minakawa-daiki/items/5fc6efbb2244f6f1c19c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items
+- サイボウズ
+  - https://blog.cybozu.io/entry/2022/06/23/170000
+- AI SHIFT
+  - https://ai-shift.co.jp/techblog/1980
 
 ## 参考資料
 - Twitter上のTweet
